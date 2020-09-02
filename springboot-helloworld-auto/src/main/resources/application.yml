@@ -1,0 +1,9 @@
+server:
+  port: 8090  
+  servlet:
+    session:
+      timeout: 1800
+  tomcat:
+    max-threads: 500
+    uri-encoding: UTF-8
+        
